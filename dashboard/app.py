@@ -26,7 +26,7 @@ BASE_DIR = os.path.dirname(
 data_path = os.path.join(
     BASE_DIR,
     "data",
-    "train_transaction.csv"
+    "sample_transactions.csv"
 )
 
 # -------------------------
